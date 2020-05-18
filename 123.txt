@@ -1,0 +1,4 @@
+zftest
+merge to master
+push branch and merge to master
+merge to master and push directly
